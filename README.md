@@ -9,3 +9,13 @@ while active.
 The program may begin its solving by pressing 'space'.
 
 **This program makes use of the PyGame library and will not function without it**
+<br><br><br>
+# A picture of the application locally with PyGame installed.
+
+![Picture of the Application](sudoku_application.PNG)
+
+<br><br><br>
+# Below is a Short GIF of the application in action
+The delay is toggled, then the number of numbers removed. Next new puzzles are generated and then the backtracking algorithm is run. Finally the puzzle is reset.
+<br><br>
+![Demo of the Application](sudoku_demo.gif)
